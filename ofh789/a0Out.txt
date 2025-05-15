@@ -1,4 +1,0 @@
-My name is Arnulfo Rivera
-I am running this script from /home/ofh789/courses/cs3424/assignments
-My username is ofh789
-I am logged in to fox01
